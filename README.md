@@ -1,4 +1,5 @@
 ## Project 
+We specialize in visual storytelling across film, publishing, and events. Our services include creating comics, manga, and illustrations; designing movie posters and promotional materials; developing visual identities and mockups for films and characters; and producing logos, branding, mockups, and promotional designs for events and companies.
 
 <!--
 **George-Estmalek/George-Estmalek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
