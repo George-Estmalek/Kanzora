@@ -1,4 +1,4 @@
-## Project 
+## Kanzora
 We specialize in visual storytelling across film, publishing, and events. Our services include creating comics, manga, and illustrations; designing movie posters and promotional materials; developing visual identities and mockups for films and characters; and producing logos, branding, mockups, and promotional designs for events and companies.
 
 <!--
